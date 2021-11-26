@@ -1,0 +1,25 @@
+section {
+  padding: 10px;
+  display: flex;
+  display: grid;
+  grid-template-columns: 1fr 1fr
+}
+
+img {
+  width: 150px;
+}
+
+article {
+  background-color: LightGreen;
+  margin: 0px 0px 20px 10px;
+  padding: 10px;
+}
+
+footer {
+  background-color: LightGreen;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 24
+}
